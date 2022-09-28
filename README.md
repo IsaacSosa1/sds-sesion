@@ -1,2 +1,2 @@
-# sds-sesion
+# ads-sesion
 Sesiones del curso
